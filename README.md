@@ -8,3 +8,12 @@
   
   
 ## 분류
+
+
+### Datastructure
+  
+---  
+### Python Data Science
+[200803 / python 데이터 분석](https://www.notion.so/Python_data_basic-22c29f1ad9bc482da1b0c14b6985b889)
+[200803 / 데이터 분석 통게](https://www.notion.so/ca3e07c2695445c3be5f757892a1e81c)
+[200803/ 파이썬으로 풀어보는 회귀분석](https://github.com/alscjf909/python_data_basic)

@@ -14,6 +14,12 @@
   
 ---  
 ### Python Data Science
-[200803 / python 데이터 분석](https://www.notion.so/Python_data_basic-22c29f1ad9bc482da1b0c14b6985b889)
-[200803 / 데이터 분석 통게](https://www.notion.so/ca3e07c2695445c3be5f757892a1e81c)
-[200803/ 파이썬으로 풀어보는 회귀분석](https://github.com/alscjf909/python_data_basic)
+[200803 / python 데이터 분석](https://www.notion.so/Python_data_basic-22c29f1ad9bc482da1b0c14b6985b889)  
+[200803 / 데이터 분석 통게](https://www.notion.so/ca3e07c2695445c3be5f757892a1e81c)  
+[200803/ 파이썬으로 풀어보는 회귀분석](https://github.com/alscjf909/python_data_basic)  
+### Arduino
+[200805 / Arduino 기본 정리](https://github.com/alscjf909/Arduino_basic)  
+[200805 / Arduino Robot 프로젝트](https://github.com/alscjf909/ING-Robot)  
+[200805 / Arduino Pager 프로젝트](https://github.com/alscjf909/Arduino_Pager)  
+[200805 / Arduion RFID 프로젝트](https://github.com/alscjf909/Arduino_RFID)
+[200805 / Arduino Vscode에서 개발하기](https://www.notion.so/Arduion_VScode-85144ed5b38d42858bcb49d556d4e23b)  

@@ -28,4 +28,9 @@
 [200805 / Arduino Robot 프로젝트](https://github.com/alscjf909/ING-Robot)  
 [200805 / Arduino Pager 프로젝트](https://github.com/alscjf909/Arduino_Pager)  
 [200805 / Arduion RFID 프로젝트](https://github.com/alscjf909/Arduino_RFID)
-[200805 / Arduino Vscode에서 개발하기](https://www.notion.so/Arduion_VScode-85144ed5b38d42858bcb49d556d4e23b)  
+[200805 / Arduino Vscode에서 개발하기](https://www.notion.so/Arduion_VScode-85144ed5b38d42858bcb49d556d4e23b)    
+　  
+---  
+　  
+### Deep learning
+[200814 / 생활 코딩 Tensorflow 강좌](https://www.notion.so/Tensorflow-807c0a3787b24f3e91df58b1e90a1825)

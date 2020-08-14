@@ -3,14 +3,15 @@
 ## 작성법  
 
 - 폴더와 파일명은 될 수 있으면 영문으로 작성한다.  
-- [Github-Flavoured Markdown](https://heropy.blog/2017/09/30/markdown/)으로 작성하고 파일 확장자는 `md`.  
+- [Github-Flavoured Markdown](https://heropy.blog/2017/09/30/markdown/) 또는 Notion으로 작성하고 파일 확장자는 `md`.  
+- 파일 올리는 당시의 날짜를 제목 앞에 붙인다.
 - 짧고 간결하며 핵심적인 문장을 사용한다. 필요한 설명이 있으면 관련된 정보가 포함된 외부 링크를 사용 하자.  
   
   
 ## 분류
 
 
-### Datastructure
+### Datas tructure
   
 ---  
 ### Python Data Science
@@ -30,7 +31,7 @@
 [200805 / Arduion RFID 프로젝트](https://github.com/alscjf909/Arduino_RFID)
 [200805 / Arduino Vscode에서 개발하기](https://www.notion.so/Arduion_VScode-85144ed5b38d42858bcb49d556d4e23b)    
 　  
----  
-　  
+---
+
 ### Deep learning
 [200814 / 생활 코딩 Tensorflow 강좌](https://www.notion.so/Tensorflow-807c0a3787b24f3e91df58b1e90a1825)

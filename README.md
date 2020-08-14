@@ -22,16 +22,15 @@
 [200808 / 데이터 클래시파이어 공부](https://www.notion.so/68a61aa3f8bc47be95f94fcdc46e6200)
 [200808 / 선형대수 공부](https://www.notion.so/f18b2fa96b164e9eba1846604036a337)  
 　  
---- 
-
+---
 ### Arduino
 [200805 / Arduino 기본 정리](https://github.com/alscjf909/Arduino_basic)  
 [200805 / Arduino Robot 프로젝트](https://github.com/alscjf909/ING-Robot)  
 [200805 / Arduino Pager 프로젝트](https://github.com/alscjf909/Arduino_Pager)  
-[200805 / Arduion RFID 프로젝트](https://github.com/alscjf909/Arduino_RFID)
+[200805 / Arduion RFID 프로젝트](https://github.com/alscjf909/Arduino_RFID)  
 [200805 / Arduino Vscode에서 개발하기](https://www.notion.so/Arduion_VScode-85144ed5b38d42858bcb49d556d4e23b)    
 　  
 ---
-
 ### Deep learning
 [200814 / 생활 코딩 Tensorflow 강좌](https://www.notion.so/Tensorflow-807c0a3787b24f3e91df58b1e90a1825)
+---

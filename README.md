@@ -17,7 +17,7 @@
 ### Python Data Science
 [200803 / python 데이터 분석](https://www.notion.so/Python_data_basic-22c29f1ad9bc482da1b0c14b6985b889)  
 [200803 / 데이터 분석 통게](https://www.notion.so/ca3e07c2695445c3be5f757892a1e81c)  
-[200803 / 파이썬으로 풀어보는 회귀분석](https://github.com/alscjf909/python_data_basic)  
+[200814 / 파이썬으로 풀어보는 회귀분석](https://github.com/alscjf909/python_data_basic/tree/master/regression_analysis)  
 [200808 / 회귀 분석 관련 공부](https://www.notion.so/a0fd3050b6084ef8bc2f06a5f27a9bfa)  
 [200808 / 데이터 클래시파이어 공부](https://www.notion.so/68a61aa3f8bc47be95f94fcdc46e6200)
 [200808 / 선형대수 공부](https://www.notion.so/f18b2fa96b164e9eba1846604036a337)  

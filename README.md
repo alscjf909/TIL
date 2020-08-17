@@ -12,7 +12,7 @@
 
 
 ### Datas tructure
-  
+[200817 / 정임영 교수님 자료구조](https://github.com/alscjf909/TIL/tree/master/Datastructure)  
 ---  
 ### Python Data Science
 [200803 / python 데이터 분석](https://www.notion.so/Python_data_basic-22c29f1ad9bc482da1b0c14b6985b889)  

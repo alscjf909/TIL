@@ -34,3 +34,6 @@
 ### Deep learning
 [200814 / 생활 코딩 Tensorflow 강좌](https://www.notion.so/Tensorflow-807c0a3787b24f3e91df58b1e90a1825)
 ---
+### Database 공부  
+[200825 / 생활 코딩 Database 강좌](https://www.notion.so/7d775222b4e841ccb2967efa36ca441e)  
+---

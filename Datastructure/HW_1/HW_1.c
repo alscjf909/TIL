@@ -18,9 +18,9 @@ int main() {
 
   //INPUT
   printf("please insert 10 integer number series in ascending order twice\n");
-  printf("Input1 : ");
+  printf("Input 1 : ");
   scanf(" %[^\n]", str1);
-  printf("Input2 : ");
+  printf("Input 2 : ");
   scanf(" %[^\n]", str2);
 
   //converts a string to an integer
@@ -44,7 +44,7 @@ int main() {
 
   //ERROR We must inser total 20 numbers
   if((index1+index2) != 20){
-    printf("You should input 20 numbers in total");
+    printf("ERROR : You should input 20 numbers in total");
     return 0;
   }
 
@@ -84,8 +84,7 @@ int main() {
   
   for(int i=1;i<sizeof(answer)/sizeof(int)-num-1;i++){
     if(answer[i]<answer[i-1]){
-      printf("The input numbers are not in ascending order\n");
-      printf("num : %d",num);
+      printf("ERROR : The input numbers are not in ascending order\n");
       return 0;
       
     }

@@ -36,5 +36,14 @@
 
 ---
 ### Database 공부  
-[200825 / 생활 코딩 Database 강좌](https://www.notion.so/7d775222b4e841ccb2967efa36ca441e)  
+[200825 / 생활 코딩 Database 강좌](https://www.notion.so/7d775222b4e841ccb2967efa36ca441e)   
+
 ---
+### Data Communication
+[210304 / Data Communication](https://www.notion.so/Introduction-90c7d081f10f4815a93dff6a03e8c3c3)   
+---
+### Coding_test
+[210303 / Coding_test](https://github.com/alscjf909/TIL/tree/master/Coding_Test)
+---
+### linux programming
+[210304 / system programming](https://github.com/alscjf909/linux_programming)

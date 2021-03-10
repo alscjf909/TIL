@@ -40,7 +40,9 @@
 
 ---
 ### Data Communication
-[210304 / Data Communication](https://www.notion.so/Introduction-90c7d081f10f4815a93dff6a03e8c3c3)   
+[210304 / Introduction](https://www.notion.so/Introduction-90c7d081f10f4815a93dff6a03e8c3c3)  
+[210310 / Network Models](https://www.notion.so/Network-Models-459da2c64d384593bbf97810dd2bcd41)   
+[210310 / Appendix](https://www.notion.so/Appendix-8a0a7c4e7ce047a5bf930ccdffac7244)
 ---
 ### Coding_test
 [210303 / Coding_test](https://github.com/alscjf909/TIL/tree/master/Coding_Test)

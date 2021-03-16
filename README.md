@@ -21,6 +21,11 @@
 [200808 / 회귀 분석 관련 공부](https://www.notion.so/a0fd3050b6084ef8bc2f06a5f27a9bfa)  
 [200808 / 데이터 클래시파이어 공부](https://www.notion.so/68a61aa3f8bc47be95f94fcdc46e6200)  
 [200808 / 선형대수 공부](https://www.notion.so/f18b2fa96b164e9eba1846604036a337)  
+---  
+### OpenCV to Python  
+[210317 / OpenCV tutorial](https://github.com/alscjf909/python_basic/tree/master/opencv)    
+[OpenCV Drawing color lines on Computer]()  
+[OpenCV Capture Paper]()
 　  
 ---
 ### Arduino  

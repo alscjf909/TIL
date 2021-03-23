@@ -11,10 +11,10 @@
 ## 분류
 　  
 　  
-### Datas tructure  
+### Data structure   
 [200817 / 정임영 교수님 자료구조](https://github.com/alscjf909/TIL/tree/master/Datastructure)   
 ---  
-### Python Data Science  
+### Python Data Science   
 [200803 / python 데이터 분석](https://www.notion.so/Python_data_basic-22c29f1ad9bc482da1b0c14b6985b889)   
 [200803 / 데이터 분석 통게](https://www.notion.so/ca3e07c2695445c3be5f757892a1e81c)   
 [200814 / 파이썬으로 풀어보는 회귀분석](https://github.com/alscjf909/python_data_basic/tree/master/regression_analysis)  
@@ -22,26 +22,26 @@
 [200808 / 데이터 클래시파이어 공부](https://www.notion.so/68a61aa3f8bc47be95f94fcdc46e6200)   
 [200808 / 선형대수 공부](https://www.notion.so/f18b2fa96b164e9eba1846604036a337)   
 ---  
-### OpenCV to Python  
+### OpenCV to Python   
 [210317 / OpenCV tutorial](https://github.com/alscjf909/python_basic/tree/master/opencv)     
 [OpenCV Drawing color lines on Computer]()   
 [OpenCV Capture Paper]() 
 　  
 ---  
-### Arduino  
+### Arduino   
 [200805 / Arduino 기본 정리](https://github.com/alscjf909/Arduino_basic)   
 [200805 / Arduino Robot 프로젝트](https://github.com/alscjf909/ING-Robot)   
 [200805 / Arduino Pager 프로젝트](https://github.com/alscjf909/Arduino_Pager)   
 [200805 / Arduion RFID 프로젝트](https://github.com/alscjf909/Arduino_RFID)   
 [200805 / Arduino Vscode에서 개발하기](https://www.notion.so/Arduion_VScode-85144ed5b38d42858bcb49d556d4e23b)     
 ---  
-### Deep learning  
+### Deep learning   
 [200814 / 생활 코딩 Tensorflow 강좌](https://www.notion.so/Tensorflow-807c0a3787b24f3e91df58b1e90a1825)   
 ---  
-### Database 공부  
+### Database 공부   
 [200825 / 생활 코딩 Database 강좌](https://www.notion.so/7d775222b4e841ccb2967efa36ca441e)   
 ---  
-### Data Communication  
+### Data Communication   
 [210304 / Introduction](https://www.notion.so/Introduction-90c7d081f10f4815a93dff6a03e8c3c3)   
 [210310 / Network Models](https://www.notion.so/Network-Models-459da2c64d384593bbf97810dd2bcd41)   
 [210317 / Introduction to Physical Layer](https://www.notion.so/Introduction-to-Physical-Layer-dd451f472a9445bea0938f4f3b506b56)    

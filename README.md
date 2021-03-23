@@ -48,6 +48,7 @@
 [210304 / Introduction](https://www.notion.so/Introduction-90c7d081f10f4815a93dff6a03e8c3c3)  
 [210310 / Network Models](https://www.notion.so/Network-Models-459da2c64d384593bbf97810dd2bcd41)  
 [210317 / Introduction to Physical Layer](https://www.notion.so/Introduction-to-Physical-Layer-dd451f472a9445bea0938f4f3b506b56)   
+[210323 / Digital Transmission](https://www.notion.so/Digital-Transmission-b356ac7ac32642bebbe8ea4f586c36b4)   
 [210310 / Appendix](https://www.notion.so/Appendix-8a0a7c4e7ce047a5bf930ccdffac7244)  
 
 ---

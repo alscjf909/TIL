@@ -6,11 +6,11 @@
 - [Github-Flavoured Markdown](https://heropy.blog/2017/09/30/markdown/) 또는 Notion으로 작성하고 파일 확장자는 `md`.  
 - 파일 올리는 당시의 날짜를 제목 앞에 붙인다.
 - 짧고 간결하며 핵심적인 문장을 사용한다. 필요한 설명이 있으면 관련된 정보가 포함된 외부 링크를 사용 하자.  
-  
-  
+　  
+　  
 ## 분류
-
-
+　  
+　  
 ### Datas tructure  
 [200817 / 정임영 교수님 자료구조](https://github.com/alscjf909/TIL/tree/master/Datastructure)  
 ---  
@@ -39,7 +39,7 @@
 [200814 / 생활 코딩 Tensorflow 강좌](https://www.notion.so/Tensorflow-807c0a3787b24f3e91df58b1e90a1825)  
 ---  
 ### Database 공부  
-[200825 / 생활 코딩 Database 강좌](https://www.notion.so/7d775222b4e841ccb2967efa36ca441e)   
+[200825 / 생활 코딩 Database 강좌](https://www.notion.so/7d775222b4e841ccb2967efa36ca441e)  
 ---  
 ### Data Communication  
 [210304 / Introduction](https://www.notion.so/Introduction-90c7d081f10f4815a93dff6a03e8c3c3)  
@@ -47,7 +47,6 @@
 [210317 / Introduction to Physical Layer](https://www.notion.so/Introduction-to-Physical-Layer-dd451f472a9445bea0938f4f3b506b56)   
 [210323 / Digital Transmission](https://www.notion.so/Digital-Transmission-b356ac7ac32642bebbe8ea4f586c36b4)   
 [210310 / Appendix](https://www.notion.so/Appendix-8a0a7c4e7ce047a5bf930ccdffac7244)  
-
 ---  
 ### Coding_test  
 [210303 / Coding_test](https://github.com/alscjf909/TIL/tree/master/Coding_Test)  
